@@ -7,6 +7,7 @@
 
 <p align="center">
   <strong><a href="https://anyisure.com">Website</a></strong> |
+  <strong><a href="https://anyisure.github.io/">Blog</a></strong> |
   <strong><a >Twitter</a></strong> |
   <strong><a >Discord</a></strong> 
 </p>
